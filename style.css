@@ -9,7 +9,6 @@
 body {
   background-color: #000000;
   color: #f6f6f6;
-  height: 100%;
 }
 
 .titulo {
@@ -40,6 +39,17 @@ body {
 .presentacion__contenido__enlaces {
   display: flex;
   justify-content: space-between;
+}
+
+.presentacion__contenido__enlaces__link {
+  width: 280px;
+  background-color: #22d4fd;
+  text-align: center;
+  padding: 21.5px 0;
+  border-radius: 16px;
   font-family: "Montserrat", sans-serif;
-  font-weight: bolder;
+  font-weight: 600;
+  font-size: 24px;
+  text-decoration: none;
+  color: #000000;
 }
