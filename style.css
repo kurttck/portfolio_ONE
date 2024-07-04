@@ -64,6 +64,10 @@ body {
   gap: 16px;
 }
 
+.presentacion__contenido__enlaces__link :hover {
+  background-color: #272727;
+}
+
 .presentacion__contenido__enlaces__subtitulo {
   font-family: "Krona One", sans-serif;
   font-size: 24px;
