@@ -59,6 +59,9 @@ body {
   text-decoration: none;
   color: #ffffff;
   border: 3px solid #22d4fd;
+  display: flex;
+  justify-content: center;
+  gap: 16px;
 }
 
 .presentacion__contenido__enlaces__subtitulo {
